@@ -1,0 +1,12 @@
+{
+    "TENDER_NOTICE.csv":["cig", "oggetto_principale_contratto", "accordo_quadro", "stato", "settore", "cod_tipo_scelta_contraente", "tipo_scelta_contraente", "cod_modalita_realizzazione", "modalita_realizzazione", "sezione_regionale", "anno_pubblicazione", "cpv_division", "flag_prevalente"],
+    "ECONOMIC_OPERATOR.csv":["ruolo", "tipo_soggetto"],
+    "AWARDS.csv":["criterio_aggiudicazione"],
+    "WORK_CATEGORY.csv": ["id_categoria", "descrizione", "cod_tipo_categoria", "descrizione_tipo_categoria"],
+    "TESTING.csv": ["esito_collaudo"],
+    "CONTRACT_END.csv": ["cod_motivo_risoluzione", "motivo_risoluzione", "cod_motivo_interruzione_anticipata", "motivo_interruzione_anticipata"],
+    "SUSPENSIONS.csv": ["descrizione_motivo"],
+    "CONTRACTING_AUTHORITIES.csv": ["natura_giuridica_codice", "natura_giuridica_descrizione"],
+    "SUBCONTRACTS.csv": ["cod_categoria", "descrizione_categoria"],
+    "VARIANTS.csv": ["cod_motivo_variante", "motivo_variante"]
+}

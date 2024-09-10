@@ -1,0 +1,20 @@
+# config.yml
+
+CSV_FILE_SEP: ;
+OD_FILE_TYPE: csv
+
+# ANAC
+OD_ANAC_DIR: open_data_anac
+TENDER_MAIN_FILE: TENDER_NOTICE.csv      # INPUT the main dataset                
+
+# CONFIGURATIONS
+CONF_COLS_TYPE_FILE: conf_cols_type.json              # INPUT file with columns types for each CSV file (dataset)
+CONF_COLS_STATS_FILE: conf_cols_stats.json            # INPUT file with columns to be included in stats for each CSV file (dataset)
+CONF_COLS_FILTER_FILE: conf_cols_filter.json          # INPUT file with columns to be filtered by dataset
+CONF_LOG_FILE: conf_cols_log.json                     # INPUT file with datasets and columns of ANAC to be used / exported in the event log
+
+# STATS
+OD_STATS_DIR: stats                                   # OUTPUT directory
+
+# EVENT LOG
+EVENT_LOG_DIR: event_log

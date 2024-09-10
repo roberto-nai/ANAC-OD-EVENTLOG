@@ -1,0 +1,14 @@
+{
+    "AWARDS.csv": [{"event_log_data":["cig", "data_aggiudicazione_definitiva"]}],
+    "CONTRACT_END.csv": [{"event_log_data":["cig", "data_effettiva_ultimazione"]}],
+    "CONTRACT_START.csv": [{"event_log_data":["cig", "data_stipula_contratto"]}],
+    "PROGRESS_STATES.csv": [{"event_log_data":["cig", "data_emissione_sal"]}],
+    "PUBLICATIONS-IT.csv": [{"event_log_data":["cig", "data_guri"]}],
+    "PUBLICATIONS-EU.csv": [{"event_log_data":["cig", "data_guce"]}],
+    "SUBCONTRACTS.csv": [{"event_log_data":["cig", "data_autorizzazione"]}],
+    "SUSPENSIONS.csv": [{"event_log_data":["cig", "data_sospensione"]}],
+    "REPRISE.csv": [{"event_log_data":["cig", "data_ripresa"]}],
+    "TENDER_NOTICE.csv": [{"event_log_data":["cig", "data_pubblicazione"]}, {"event_log_features": ["oggetto_principale_contratto", "accordo_quadro", "importo_lotto", "cpv_division", "sezione_regionale", "cod_tipo_scelta_contraente", "cod_modalita_realizzazione"]}],
+    "TESTING.csv": [{"event_log_data":["cig", "data_cert_collaudo"]}],
+    "VARIANTS.csv": [{"event_log_data":["cig", "data_approvazione_variante"]}]
+}
