@@ -7,10 +7,6 @@
 #### config
 Configuration directory with ```config.yml```.  
 
-#### open_data
-Directory with downloaded ANAC Open Data Catalogue (see this project: [https://github.com/roberto-nai/ANAC-OD-DOWNLOADER](https://github.com/roberto-nai/ANAC-OD-DOWNLOADER)).  
-Open Data are also available on Zenodo: [https://doi.org/10.5281/zenodo.11452793](https://doi.org/10.5281/zenodo.11452793).  
-
 #### stats
 Directory with procurements stats.
 
